@@ -9,7 +9,7 @@ hamburger.addEventListener("click", () => {
   });
 });
 
-const API_KEY = "0d94f61d891c39c0d8ddc956d5ca297b";
+const API_KEY = "848ee215bfb9e00f2762558dbf59e9dc";
 
 const API_URL =
   "https://api.themoviedb.org/3/movie/now_playing?api_key=" + API_KEY;
